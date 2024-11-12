@@ -1,4 +1,4 @@
-# assignment_ice_cream
+# assignments
 
 A new Flutter project.
 
